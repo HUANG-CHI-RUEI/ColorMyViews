@@ -1,0 +1,2 @@
+在範例中他直接listOf(一堆東西)，但現在已經被Kotlin捨棄。
+還是需要另外定義findViewById(.....)
